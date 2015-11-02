@@ -1,6 +1,6 @@
 name: Design Build Ship
 favicon: null
-layout_spectrum: 0.19655
+layout_spectrum: 0.47212
 typography_spectrum: 0.69324
 title: Design Build Ship
 cta:
@@ -23,7 +23,7 @@ color:
     - '#f0ab5c'
     - '#7b6d63'
   brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 0.125
-  rhythmicContrast: 0.3073920232709497
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
